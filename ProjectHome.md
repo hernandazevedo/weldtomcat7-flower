@@ -1,0 +1,1 @@
+Projeto com jpa + weld(ConversationScoped) com gerenciamento de transação feito pelo TransactionInterceptor do seam3.
